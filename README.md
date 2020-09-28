@@ -1,3 +1,3 @@
 # LB
 Logic Building Repo
-In this Readme first demo progra is written for demonstration perpose of First demo file 
+In this Readme All Logic Buildiing Assignments Are Attached with Source Code
